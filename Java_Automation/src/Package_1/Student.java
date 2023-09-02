@@ -6,6 +6,7 @@ public class Student
 	public void rishi()
 	{
 		System.out.println("Hello");
+		System.out.println("My github account");
 	}
 	public static void main(String[] args) 
 	{
